@@ -1,0 +1,43 @@
+h1 {
+	color : #FFFFFF;
+	font-size: 30px;
+	line-height: 43px;
+}
+
+h2 {
+	color : #FFFFFF;
+	font-size: 25px;
+	line-height: 30px;
+}
+
+body {
+	background-color: #0865DE;
+}
+
+a {
+	font-size: 12px;
+	text-decoration: none;
+	color: #FFFFFF;
+	line-height: 18px;
+
+}
+
+li {
+	list-style-type: none;
+
+}
+
+p {
+	color: #D1D1D1;
+	font-size: 14px;
+	line-height: 33.3px;
+	width: 186px;
+	
+}
+
+.long-parag {
+	color: #D1D1D1;
+	font-size: 25px;
+	line-height: 44px;
+	width: 830px;
+}
